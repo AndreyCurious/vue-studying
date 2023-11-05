@@ -1,4 +1,4 @@
-# vue-styding
+# vue-studying
 
 ## Project setup
 ```
